@@ -1,4 +1,4 @@
-GPS_MAP_PLOT
+GPS MAP PLOT
 ====
 令和5年度に制作した、指定の範囲内にある3台のRaspberryPiの位置をウェブサイトに表示させるプログラムです。
 
