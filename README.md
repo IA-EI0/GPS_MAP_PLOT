@@ -2,7 +2,7 @@ GPS MAP PLOT
 ====
 令和5年度に制作した、指定の範囲内にある3台のRaspberryPiの位置をウェブサイトに表示させるプログラムです。
 
-サイトリンク : [こちらから](http://iaei0.starfree.jp/KOSEN-Program/DashBoard_WEB_Access.php)
+サイトリンク : [こちらから](http://iaei0.starfree.jp/GPS-SPY/MAP_GitHub.php)
 
 ## Description
 天気予報、授業変更・休講情報、占いの情報を取得するプログラム(Python)をレンタルサーバー上でCronを用いて定期実行させ、それぞれの情報をまとめたJsonファイルをサーバーの指定のファイルに配置し、サイトがJsonファイルを読み込むことでデータを表示しています。
