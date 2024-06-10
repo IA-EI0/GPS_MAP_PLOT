@@ -19,6 +19,7 @@ GPS MAP PLOT
 
 ## Equipment Used
 Raspberry Pi 4 Model B 8GB
+
 GPS受信機 (AE-GNSS-EXTANT+ANT_SET)
 
 ## Licence
