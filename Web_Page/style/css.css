@@ -1,0 +1,22 @@
+/* COMMON body */
+body {
+    font-family:Arial;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+/* PC */
+.box {
+  display: inline-block;
+  text-align:center;
+  height: 50%;
+  width: 400px;
+}
+/* SP */
+.boxSP {
+  display: inline-block;
+  text-align:center;
+  height: auto;
+  width: 350px;
+}
